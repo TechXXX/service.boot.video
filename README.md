@@ -1,5 +1,5 @@
 # service.boot.video
-Add startup video to Kodi
+Play video, song or script at Kodi startup
 
 Default video courtsey of Samfisher @ https://www.youtube.com/channel/UCTxCEZ4GQkPr9PnwQt-l-Pw
 
