@@ -16,7 +16,7 @@ msgstr ""
 "Language: en\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgctxt "#30100"
+msgctxt "#30101"
 msgid "Start Up"
 msgstr ""
 
@@ -25,5 +25,29 @@ msgid "Boot Video Location"
 msgstr ""
 
 msgctxt "#30105"
-msgid "Boot Delay Counter"
+msgid "Boot Delay Timer(sec)"
 msgstr
+
+msgctxt "#30107"
+msgid "Change Player Controls"
+msgstr
+
+msgctxt "#30201"
+msgid "RandomOn"
+msgstr ""
+
+msgctxt "#30203"
+msgid "RandomOff"
+msgstr ""
+
+msgctxt "#30205"
+msgid "RepeatAll"
+msgstr ""
+
+msgctxt "#30207"
+msgid "RepeatOne"
+msgstr ""
+
+msgctxt "#30209"
+msgid "RepeatOff"
+msgstr ""

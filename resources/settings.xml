@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-    <category label="30100">
-        <setting id="location" type="video" label="30103" default="special://home/addons/service.boot.video/resources/intro.mp4"/>
+    <category label="30101">
+        <setting id="location" type="file" label="30103" default="special://home/addons/service.boot.video/resources/intro.mp4"/>
         <setting id="delay" type="number" label="30105" default="0"/>
+        <setting id="control" type="labelenum" label="30107" lvalues="30201|30203|30205|30207|30209"/>
     </category>
 
 </settings>
